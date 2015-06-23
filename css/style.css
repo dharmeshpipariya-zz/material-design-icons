@@ -180,6 +180,14 @@
 }
 
 /*Fonts*/
+.md-people-toggle:before {
+    content: "\e600";
+}
+
+.md-presenter:before {
+    content: "\e601";
+}
+
 .md-error:before {
     content: "\e000";
 }
